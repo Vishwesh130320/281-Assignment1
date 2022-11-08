@@ -1,43 +1,40 @@
 # 281 Assignment-1
 
-1. For each member in your team, provide 1 paragraph detailing what parts of the lab that member implemented / researched. (You may skip this question if you are doing the lab by yourself).
+### 1. This Assignent was done by myself without any group.
 
-2. Describe in detail the steps you used to complete the assignment.
-Using GDF to discover VMX features present in processor by writing a Linux kernel module that queries these features.
-
-- Create a project in GCP.
+### 2. You can find detailed steps of this project below:
+1. Create a project in GCP.
 <img width="1512" alt="Screenshot 2022-11-07 at 4 36 40 PM" src="https://user-images.githubusercontent.com/99626312/200463125-724df637-7693-4a4d-9e63-5bf98ee04904.png">
 
 <img width="1512" alt="Screenshot 2022-11-07 at 4 38 45 PM" src="https://user-images.githubusercontent.com/99626312/200463639-01706169-d95b-473a-aa84-f2b4f33d3e2e.png">
 
-- Creating a new VM instance in Google Cloud Platform.
+2. Creating a new VM instance in Google Cloud Platform.
 <img width="1512" alt="Screenshot 2022-11-07 at 4 40 09 PM" src="https://user-images.githubusercontent.com/99626312/200463727-63ceaf65-7fb5-4493-af37-8300cce9ff2c.png">
 
-
-- Entering specidfied Details like, Region, Zone, Disk size, service account, min-cpu-platform etc.
+3. Entering specidfied Details like, Region, Zone, Disk size, service account, min-cpu-platform etc.
 <img width="1512" alt="Screenshot 2022-11-07 at 4 44 10 PM" src="https://user-images.githubusercontent.com/99626312/200463741-9ff37583-4d3a-4a1f-a951-adb72337c9cc.png">
 
-- Adding a new disk
+4. Adding a new disk
 <img width="1512" alt="Screenshot 2022-11-07 at 4 49 18 PM" src="https://user-images.githubusercontent.com/99626312/200463966-65726934-df96-4603-8b9c-35ff4118384f.png">
 
 <img width="1512" alt="Screenshot 2022-11-07 at 4 58 41 PM" src="https://user-images.githubusercontent.com/99626312/200464083-31141a83-3d16-4c2b-b0f1-45d023b10dfd.png">
 
 <img width="1512" alt="Screenshot 2022-11-07 at 4 58 34 PM" src="https://user-images.githubusercontent.com/99626312/200464026-73e8d77a-abcc-4954-ab74-776169fd0f52.png">
 
-- Enabling nested virtualization and for google cloud terminal I am using command line and & shell script.
+5. Enabling nested virtualization and for google cloud terminal I am using command line and & shell script.
 <img width="1501" alt="Screenshot 2022-11-07 at 5 01 03 PM" src="https://user-images.githubusercontent.com/99626312/200464609-0deb1532-8344-4864-9cee-a2c1b56faf21.png">
 
-- Creating an Instance
+6. Creating an Instance
 <img width="1491" alt="Screenshot 2022-11-07 at 5 01 22 PM" src="https://user-images.githubusercontent.com/99626312/200464852-ba9d57e3-1c59-4bdf-a916-4a30f143e1a7.png">
 <img width="1512" alt="Screenshot 2022-11-07 at 5 02 47 PM" src="https://user-images.githubusercontent.com/99626312/200464869-06048589-0c6b-4b6f-a60d-ddb5474fb363.png">
 
-- Created a directory and generate Makefile and cmpe283-1.c file.
+7. Created a directory and generate Makefile and cmpe283-1.c file.
 <img width="694" alt="Screenshot 2022-11-07 at 5 05 41 PM" src="https://user-images.githubusercontent.com/99626312/200464935-5e6d46cc-057f-4f46-8083-c99d20dc3ef2.png">
 
-- Install gcc make & run MAKE command
+8. Install gcc make & run MAKE command
 <img width="1487" alt="Screenshot 2022-11-07 at 7 07 13 PM" src="https://user-images.githubusercontent.com/99626312/200465678-64b30754-a81e-4f04-af06-745d44f1ef39.png">
 
-- Generate cmpe283-1.ko file and run dmesg command 
+9. Generate cmpe283-1.ko file and run dmesg command 
 <img width="1512" alt="Screenshot 2022-11-07 at 7 08 30 PM" src="https://user-images.githubusercontent.com/99626312/200465872-ed93f7d5-61ee-4f48-a38c-8239a0525a07.png">
 
 ## *OutPut*
